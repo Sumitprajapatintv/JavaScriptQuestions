@@ -8,4 +8,4 @@ const abs = (num) => {
     return 19 - num;
   }
 }
-console.log(abs(5))
+console.log(abs(5)); 
